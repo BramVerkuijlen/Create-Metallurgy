@@ -23,6 +23,8 @@
   "advancement.createmetallurgy.steel_age.desc": "Maak een legering van ijzer en cokes",
   "advancement.createmetallurgy.tungsten_age": "Het wolfraamtijdperk",
   "advancement.createmetallurgy.tungsten_age.desc": "Maak een wolfraamstaaf van wolfraamiet",
+
+  
   "block.createmetallurgy.black_light_bulb": "Zwarte Gloeilamp",
   "block.createmetallurgy.blue_light_bulb": "Blauwe Gloeilamp",
   "block.createmetallurgy.brown_light_bulb": "Bruine Gloeilamp",
@@ -79,30 +81,38 @@
   "block.createmetallurgy.white_light_bulb": "Witte Gloeilamp",
   "block.createmetallurgy.wolframite_ore": "Wolframiet Erts",
   "block.createmetallurgy.yellow_light_bulb": "Gele Gloeilamp",
+
+  
   "createmetallurgy.crucible.capacity": "Resterende capaciteit",
   "createmetallurgy.crucible.empty": "Smelterij leeg...",
   "createmetallurgy.crucible.fluid_content": "Vloeibare inhoud",
   "createmetallurgy.crucible.hold_details": "Houd [%1$s] ingedrukt voor meer informatie",
   "createmetallurgy.crucible.title": "Smeltkroes-informatie:",
+  
   "createmetallurgy.foundry.cooling": "Afkoelen!",
   "createmetallurgy.foundry.heating": "Opwarmen",
   "createmetallurgy.foundry.overheating": "Oververhit!",
   "createmetallurgy.foundry.stable": "Stabiel",
   "createmetallurgy.foundry.status": "Thermische status",
+  
   "createmetallurgy.generic.icon.down": "↓",
   "createmetallurgy.generic.icon.heart": "❤",
   "createmetallurgy.generic.icon.up": "↑",
   "createmetallurgy.generic.unit.thermal": "Tu",
+  
   "createmetallurgy.gui.goggles.castingbasin_contents": "Inhoud van het Smeltbak",
   "createmetallurgy.gui.goggles.castingtable_contents": "Inhoud van de Smelttafel",
   "createmetallurgy.gui.goggles.foundrybasin_contents": "Inhoud van de Smelterij-kom",
+  
   "createmetallurgy.logistics.address": "Net Adres",
+  
   "createmetallurgy.ponder.casting_blocks.header": "Gesmolten metalen Smelten",
   "createmetallurgy.ponder.casting_blocks.text_1": "Smeltblokken kunnen worden gebruikt om gesmolten metalen af ​​te koelen tot een specifieke vorm",
   "createmetallurgy.ponder.casting_blocks.text_2": "De Smeltbak wordt gebruikt om een heel blok te Smelten",
   "createmetallurgy.ponder.casting_blocks.text_3": "Terwijl de Smelttafel wordt gebruikt om voorwerpen te Smelten met behulp van Grafietmallen",
   "createmetallurgy.ponder.casting_blocks.text_4": "Als je Trechters gebruikt in plaats van handmatig...",
   "createmetallurgy.ponder.casting_blocks.text_5": "...je hebt misschien een Messing trechter nodig om te voorkomen dat er mallen uit komen",
+  
   "createmetallurgy.ponder.foundry_basin.header": "Metalen smelten met de Smeltbak",
   "createmetallurgy.ponder.foundry_basin.text_1": "De Smeltbak is vergelijkbaar met een klassieke Bak...",
   "createmetallurgy.ponder.foundry_basin.text_2": "...Het kan echter slechts 9 items van hetzelfde type bevatten",
@@ -110,6 +120,7 @@
   "createmetallurgy.ponder.foundry_basin.text_4": "Net als een bak kan een Giettuit recepten uit verschillende items halen...",
   "createmetallurgy.ponder.foundry_basin.text_5": "...en Vloeistoffen met een Afvoer",
   "createmetallurgy.ponder.foundry_basin.text_6": "Zorg ervoor dat het Smelterij-deksel gesloten is, anders begint het recept niet",
+  
   "createmetallurgy.ponder.foundry_mixer.header": "Legeringen maken met gieterijmenger",
   "createmetallurgy.ponder.foundry_mixer.text_1": "De Smelterij-mixer is vergelijkbaar met de mechanische mixer...",
   "createmetallurgy.ponder.foundry_mixer.text_2": "...maar heeft een veel hogere stress-impact",
@@ -119,13 +130,16 @@
   "createmetallurgy.ponder.foundry_mixer.text_6": "Zorg ervoor dat je de Smelterij-deksel sluit, anders start het recept niet",
   "createmetallurgy.ponder.foundry_mixer.text_7": "Als je Vloeistof Buizen gebruikt in plaats van een Afvoer...",
   "createmetallurgy.ponder.foundry_mixer.text_8": "...kun je een Slimme Vloeistof Buis gebruiken om te voorkomen dat je onverwerkte vloeistoffen wegpompt",
+  
   "createmetallurgy.ponder.light_bulbs.header": "Gloeilampen gebruiken",
   "createmetallurgy.ponder.light_bulbs.text_1": "Gloeilampen zijn een alternatieve lichtbron voor de Redstone-lamp",
   "createmetallurgy.ponder.light_bulbs.text_2": "Ze zenden licht uit in verhouding tot de sterkte van het ontvangen Redstone-signaal",
   "createmetallurgy.ponder.light_bulbs.text_3": "Gloeilampen zijn verkrijgbaar in alle kleuren",
   "createmetallurgy.ponder.light_bulbs.text_4": "Door items in het adresslot te plaatsen, kunnen andere lampen in een netwerk worden aangesloten",
+  
   "createmetallurgy.ponder.tag.metalwork": "Metaalwerk",
   "createmetallurgy.ponder.tag.metalwork.description": "Onderdelen die gebruikt worden om metalen te bewerken",
+  
   "createmetallurgy.recipe.alloying": "Smelterij Legering",
   "createmetallurgy.recipe.assembly.grinding": "Verwerk in de maalinstallatie",
   "createmetallurgy.recipe.bulk_melting": "Bulk Smelten",
@@ -139,12 +153,16 @@
   "createmetallurgy.recipe.grinding": "Schuren",
   "createmetallurgy.recipe.melting": "Smelten in de Smelterij",
   "createmetallurgy.recipe.polishing_with_grinder": "Polijsten met de Slijp Machine",
+
+  
   "death.attack.createmetallurgy.crucible": "%1$s Ontdek wat een écht geweldige hoogoven was...",
   "death.attack.createmetallurgy.crucible.player": "%2$s geloofde dat %1$s een goede legering zou vormen",
   "death.attack.createmetallurgy.mechanical_grinder": "%1$s's voeten zijn veranderd in geraspte kaas",
   "death.attack.createmetallurgy.mechanical_grinder.player": "%2$s gebruikte %1$s als kaas voor zijn pasta",
   "death.attack.createmetallurgy.molten_fluid": "%1$s dacht dat gesmolten metaal een goede fondue was...",
   "death.attack.createmetallurgy.molten_fluid.player": "%2$s gebruikte %1$s als een stuk brood voor zijn gesmolten metaal fondue",
+
+  
   "fluid.createmetallurgy.molten_aluminum": "Gesmolten Aluminium",
   "fluid.createmetallurgy.molten_brass": "Gesmolten Messing",
   "fluid.createmetallurgy.molten_bronze": "Gesmolten Brons",
@@ -166,6 +184,8 @@
   "fluid.createmetallurgy.molten_tungsten": "Gesmolten Wolfraam",
   "fluid.createmetallurgy.molten_void_steel": "Gesmolten Void Staal",
   "fluid.createmetallurgy.molten_zinc": "Gesmolten Zink",
+
+  
   "item.createmetallurgy.coke": "Coke",
   "item.createmetallurgy.copper_dust": "Koperpoeder",
   "item.createmetallurgy.crushed_raw_wolframite": "Verpulverd Rauwe Wolframiet",
