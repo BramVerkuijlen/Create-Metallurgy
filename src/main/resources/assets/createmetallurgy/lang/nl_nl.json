@@ -1,26 +1,34 @@
 {
   "advancement.createmetallurgy.belt_grinder": "Wat een Kaasrasp!",
   "advancement.createmetallurgy.belt_grinder.desc": "Schaf een mechanische bandslijpmachine aan",
+  
   "advancement.createmetallurgy.casting_blocks": "Probeer er niet op te blazen!",
   "advancement.createmetallurgy.casting_blocks.desc": "Maak een Smeltkom of Smelttafel",
+  
   "advancement.createmetallurgy.foundry": "Meesterschap in de metallurgie",
   "advancement.createmetallurgy.foundry.desc": "Schaf een Smelterij-eenheid aan",
   "advancement.createmetallurgy.foundry_basin": "Metallurgie expert",
   "advancement.createmetallurgy.foundry_basin.desc": "Maak een Smelterij-kom en Smelterij-deksel",
   "advancement.createmetallurgy.foundry_mixer": "Draai een keer in het rond!",
   "advancement.createmetallurgy.foundry_mixer.desc": "Schaf een Smelterij-mizxer aan",
+  
   "advancement.createmetallurgy.graphite": "Hoog in koolstof",
   "advancement.createmetallurgy.graphite.desc": "Maak grafiet",
   "advancement.createmetallurgy.graphite_molds": "Grafieten mallen",
   "advancement.createmetallurgy.graphite_molds.desc": "Schaf grafieten mal aan",
+  
   "advancement.createmetallurgy.industrial_crucible": "Lekker! Broodje metaal",
   "advancement.createmetallurgy.industrial_crucible.desc": "Schaf een industriële smeltkroes aan",
+  
   "advancement.createmetallurgy.light_bulb": "Edison Zou Trots Zijn!",
   "advancement.createmetallurgy.light_bulb.desc": "Maak een gloeilamp",
+  
   "advancement.createmetallurgy.melting_dusts": "Effectieve fabriek!",
   "advancement.createmetallurgy.melting_dusts.desc": "Verwerf gewassen mineraalstof",
+  
   "advancement.createmetallurgy.steel_age": "Het staaltijdperk",
   "advancement.createmetallurgy.steel_age.desc": "Maak een legering van ijzer en cokes",
+  
   "advancement.createmetallurgy.tungsten_age": "Het wolfraamtijdperk",
   "advancement.createmetallurgy.tungsten_age.desc": "Maak een wolfraamstaaf van wolfraamiet",
 
@@ -94,17 +102,21 @@
   "createmetallurgy.foundry.overheating": "Oververhit!",
   "createmetallurgy.foundry.stable": "Stabiel",
   "createmetallurgy.foundry.status": "Thermische status",
+
   
   "createmetallurgy.generic.icon.down": "↓",
   "createmetallurgy.generic.icon.heart": "❤",
   "createmetallurgy.generic.icon.up": "↑",
   "createmetallurgy.generic.unit.thermal": "Tu",
+
   
   "createmetallurgy.gui.goggles.castingbasin_contents": "Inhoud van het Smeltbak",
   "createmetallurgy.gui.goggles.castingtable_contents": "Inhoud van de Smelttafel",
   "createmetallurgy.gui.goggles.foundrybasin_contents": "Inhoud van de Smelterij-kom",
+
   
   "createmetallurgy.logistics.address": "Net Adres",
+
   
   "createmetallurgy.ponder.casting_blocks.header": "Gesmolten metalen Smelten",
   "createmetallurgy.ponder.casting_blocks.text_1": "Smeltblokken kunnen worden gebruikt om gesmolten metalen af ​​te koelen tot een specifieke vorm",
@@ -139,6 +151,7 @@
   
   "createmetallurgy.ponder.tag.metalwork": "Metaalwerk",
   "createmetallurgy.ponder.tag.metalwork.description": "Onderdelen die gebruikt worden om metalen te bewerken",
+
   
   "createmetallurgy.recipe.alloying": "Smelterij Legering",
   "createmetallurgy.recipe.assembly.grinding": "Verwerk in de maalinstallatie",
@@ -240,12 +253,16 @@
   "item.createmetallurgy.tungsten_wire_spool": "Wolfraam Draadspoel",
   "item.createmetallurgy.wolframite_dust": "Wolframietpoeder",
   "item.createmetallurgy.zinc_dust": "Zinkpoeder",
+
+  
   "itemGroup.createmetallurgy.main_group": "Create: Metallurgy",
 
+  
   "createmetallurgy.display_source.foundry.for_foundry_status": "voor Smelterij Status",
   "createmetallurgy.display_source.foundry.not_enough_space": "Niet genoeg plaats",
   "createmetallurgy.display_source.foundry_status": "Smelterij Thermische Status",
 
+  
   "createmetallurgy.ponder.foundry.header": "Een Smelterij Opzetten",
   "createmetallurgy.ponder.foundry.text_1": "Industriële Smeltkroezen kunnen ook als een Smelterij worden gebruikt...",
   "createmetallurgy.ponder.foundry.text_2": "...je kunt deze op elk moment verwijderen met een Moersleutel",
@@ -257,6 +274,7 @@
   "createmetallurgy.ponder.foundry.text_8": "Voorwerpen kunnen ook aan elke kant worden overgedragen, zoals bij een Voorraadkluis",
   "createmetallurgy.ponder.foundry.text_9": "Smelterijen kunnen ook andere soorten recepten uitvoeren, zoals het smelten van entiteiten en legeringen",
 
+  
   "createmetallurgy.ponder.industrial_crucible.header": "Een Industriële Smeltkroes Bouwen",
   "createmetallurgy.ponder.industrial_crucible.text_1": "Industriële Smeltkroezen kunnen worden gebruikt om gesmolten metalen op te slaan",
   "createmetallurgy.ponder.industrial_crucible.text_2": "Je kunt ramen toevoegen met een Moersleutel!",
