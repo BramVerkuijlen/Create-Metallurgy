@@ -132,6 +132,7 @@
   "createmetallurgy.ponder.foundry_basin.text_4": "Net als een bak kan een Giettuit recepten uit verschillende items halen...",
   "createmetallurgy.ponder.foundry_basin.text_5": "...en Vloeistoffen met een Afvoer",
   "createmetallurgy.ponder.foundry_basin.text_6": "Zorg ervoor dat het Smelterij-deksel gesloten is, anders begint het recept niet",
+  
   "createmetallurgy.ponder.foundry_mixer.header": "Legeringen maken met gieterijmenger",
   "createmetallurgy.ponder.foundry_mixer.text_1": "De Smelterij-mixer is vergelijkbaar met de mechanische mixer...",
   "createmetallurgy.ponder.foundry_mixer.text_2": "...maar heeft een veel hogere stress-impact",
@@ -196,6 +197,8 @@
   "fluid.createmetallurgy.molten_tungsten": "Gesmolten Wolfraam",
   "fluid.createmetallurgy.molten_void_steel": "Gesmolten Void Staal",
   "fluid.createmetallurgy.molten_zinc": "Gesmolten Zink",
+
+  
   "item.createmetallurgy.coke": "Coke",
   "item.createmetallurgy.copper_dust": "Koperpoeder",
   "item.createmetallurgy.crushed_raw_wolframite": "Verpulverd Rauwe Wolframiet",
